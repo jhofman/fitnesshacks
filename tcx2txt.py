@@ -5,6 +5,8 @@
 # description: converts garmin tcx files to delimited text files
 #
 # usage: see tcx2txt.py --help
+#   tcx files are found on mac osx in
+#     ~/Library/Application Support/Garmin/Devices/<deviceid>/History/
 #
 # requires: ElementTree, BeautifulSoup
 #
