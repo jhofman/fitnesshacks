@@ -1,4 +1,8 @@
 code for various fitness hacks
 
+tcx.py:
+	functions to parse garmin tcx files
 tcx2txt.py:
 	converts garmin tcx files to delimited text files
+example.tcx:
+	example tcx file
