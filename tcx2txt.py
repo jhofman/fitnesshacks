@@ -1,4 +1,15 @@
-#!/usr/bin/env python2.6
+#!/usr/bin/env python
+#
+# file: tcx2txt.py
+#
+# description: converts garmin tcx files to delimited text files
+#
+# usage: see tcx2txt.py --help
+#
+# requires: ElementTree, BeautifulSoup
+#
+# author: jake hofman (gmail: jhofman)
+#
 
 from xml.etree.ElementTree import fromstring
 from time import strptime, strftime
