@@ -1,0 +1,4 @@
+code for various fitness hacks
+
+tcx2txt.py:
+	converts garmin tcx files to delimited text files
